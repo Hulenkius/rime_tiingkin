@@ -1,0 +1,99 @@
+# UTF-8
+# RIME SCHEMA
+
+schema:
+  name: 𡦂喃㗂京中國
+  schema_id: tiingkin
+  version: "2023.06.01"
+  author:
+    - hulenkius <hulenkius@gmail.com>
+  description: |
+    中國京語詞典字头
+    
+    聲調不寫
+    長音雙寫
+    ɛ>ee　ɔ>oo　ɔː >ooo
+    ɯ>w　ə>y　ɤ>v
+    ɣ>ɡ　ŋ>ng 
+    ʔ->x或不寫　ʔb>b　ʔd>d 
+    ȵ>nh/nj　ɬ>lh
+    
+  dependencies:
+    - cangjie5
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - xform/(\*).+$//
+    # 以下爲主體
+    - derive/^x//
+    - derive/i/j/
+    - derive/j/i/
+    - derive/hw/wh/
+
+translator:
+  dictionary: tiingkin
+  prism: tiingkin
+  spelling_hints: 1
+  enable_completion: true
+  preedit_format:
+    - xform/(\*).+$//
+  comment_format:
+    - xform/^(.*)$/‹$1›
+    - xform/((\*).+)›/›\ $1/
+    
+reverse_lookup:
+  dictionary: cangjie5
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔倉頡〕
+  preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  comment_format:
+    - xform/^(.*)$/$1
+    - xform/((\*).+)/$1/
+  
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
