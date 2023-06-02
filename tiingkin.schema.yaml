@@ -4,20 +4,19 @@
 schema:
   name: 𡦂喃㗂京中國
   schema_id: tiingkin
-  version: "2023.06.01"
+  version: "2023.06.02"
   author:
     - hulenkius <hulenkius@gmail.com>
   description: |
     中國京語詞典字头
-    
-    聲調不寫
+    需要 Nom Na Tong 字體私用區支持
+    聲調用 telex 寫法，可省略
     長音雙寫
     ɛ>ee　ɔ>oo　ɔː >ooo
     ɯ>w　ə>y　ɤ>v
     ɣ>ɡ　ŋ>ng 
     ʔ->x或不寫　ʔb>b　ʔd>d 
     ȵ>nh/nj　ɬ>lh
-    
   dependencies:
     - cangjie5
 
@@ -58,11 +57,27 @@ speller:
   delimiter: " '"
   algebra:
     - xform/(\*).+$//
-    # 以下爲主體
     - derive/^x//
     - derive/i/j/
     - derive/j/i/
     - derive/hw/wh/
+    # telex 聲調轉寫
+    - derive/1//
+    - derive/2//
+    - derive/3//
+    - derive/5//
+    - derive/6//
+    - derive/7//
+    - derive/8//
+    - derive/1/z/
+    - derive/2/f/
+    - derive/5/s/
+    - derive/6/j/
+    - derive/7/s/
+    - derive/8/j/
+    - derive/3/r/
+    - derive/3/x/
+    - derive/\’//
 
 translator:
   dictionary: tiingkin
