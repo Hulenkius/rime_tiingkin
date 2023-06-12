@@ -5,7 +5,7 @@
 
 ---
 name: "tiingkin"
-version: "2023.06.02"
+version: "2023.06.12"
 sort: original
 use_preset_vocabulary: true
 ...
@@ -1695,6 +1695,7 @@ use_preset_vocabulary: true
 𬟼	maat8*maːt⁸
 𧊊	nhong6*ȵoŋ⁶
 蛋	taan2*taːn²
+𧖱	mau5*mau⁵
 粓	kvvm1*kɤːm¹
 粗	thoo1*thɔ¹
 粗	tshu5*tshu⁵
@@ -3986,7 +3987,6 @@ use_preset_vocabulary: true
 󱿗	soom5*sɔm⁵
 󱾠	raap8*raːp⁸
 󲊲	tin1*tin¹
-⿱血卯	mau5*mau⁵
 󱿍	thoo6*thɔ⁶
 󱾚	maang2*maːŋ²
 󱿜	nook7*nɔk⁷
