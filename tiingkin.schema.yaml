@@ -1,22 +1,22 @@
-# UTF-8
-# RIME SCHEMA
+# Rime schema
+# encoding: utf-8
 
 schema:
   name: 𡦂喃㗂京中國
   schema_id: tiingkin
-  version: "2023.06.02"
+  version: "2023.06.13"
   author:
     - hulenkius <hulenkius@gmail.com>
+    - Keepout2010 <Keepout2010@163.com>
   description: |
-    中國京語詞典字头
+    《中國京語詞典》字頭發音轉寫輸入
     需要 Nom Na Tong 字體私用區支持
     聲調用 telex 寫法，可省略
     長音雙寫
     ɛ>ee　ɔ>oo　ɔː >ooo
     ɯ>w　ə>y　ɤ>v
-    ɣ>ɡ　ŋ>ng 
-    ʔ->x或不寫　ʔb>b　ʔd>d 
-    ȵ>nh/nj　ɬ>lh
+    ɣ>ɡ　ŋ>ng　ʔ>x
+    ȵ>nh　ɬ>lh
   dependencies:
     - cangjie5
 
@@ -57,11 +57,27 @@ speller:
   delimiter: " '"
   algebra:
     - xform/(\*).+$//
-    - derive/^x//
+    # 容錯
+    - derive/k/c/
+    - derive/ts/z/
+    - derive/kW/cw/
+    - derive/kW/cu/
+    - derive/W/w/
+    - derive/W/u/
+    - derive/b/xb/
+    - derive/d/xd/
+    - derive/d/dd/
     - derive/i/j/
     - derive/j/i/
     - derive/hw/wh/
-    # telex 聲調轉寫
+    - derive/ooo/oooo/
+    - derive/nh/nj/
+    - xform/^ng/NG/
+    - derive/ng/g/
+    - xform/NG/ng/
+    # 省略喉塞
+    - derive/^x//
+    # 省略聲調
     - derive/1//
     - derive/2//
     - derive/3//
@@ -69,15 +85,16 @@ speller:
     - derive/6//
     - derive/7//
     - derive/8//
+    # telex 聲調轉寫
     - derive/1/z/
     - derive/2/f/
+    - derive/3/r/
+    - derive/3/x/
     - derive/5/s/
     - derive/6/j/
     - derive/7/s/
-    - derive/8/j/
-    - derive/3/r/
-    - derive/3/x/
     - derive/\’//
+    - derive/8/j/
 
 translator:
   dictionary: tiingkin
@@ -89,6 +106,20 @@ translator:
   comment_format:
     - xform/^(.*)$/‹$1›
     - xform/((\*).+)›/›\ $1/
+    - xform/\*//
+    # 省略喉塞
+    - xform/‹x/‹/
+    # 轉寫聲調
+    - xform/1/ᶻ/
+    - xform/2/ᶠ/
+    - xform/3/ʳ/
+    - xform/5/ˢ/
+    - xform/6/ʲ/
+    - xform/7/ˢ/
+    - xform/8/ʲ/
+    - xform/\’//
+    # 配合容錯
+    - xform/W/w/
     
 reverse_lookup:
   dictionary: cangjie5

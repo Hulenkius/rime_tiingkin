@@ -1,23 +1,24 @@
-# UTF-8
-# RIME DICTIONARY
-# ZHONG_GUO_JING_YU_CI_DIAN
-# HULENKIUS (HULENKIUS@GMAIL.COM)
+# Rime dictionary
+# encoding: utf-8
+#
+#
 
 ---
 name: "tiingkin"
-version: "2023.06.12"
+version: "2023.06.13"
 sort: original
 use_preset_vocabulary: true
 ...
+
 詞典㗂京中國
-# 中国京语词典
-# 笔画索引
-# 一画
+# 中国京语词典 - 詞典㗂京中國
+# 筆畫索引
+# 一畫
 一	nhvt7*ȵɤt⁷
 丿	fut7*fut⁷
 乙	xat7*ʔat⁷
 乙	xvt7*ʔɤt⁷
-# 二画
+# 二畫
 二	nhi2*ȵi²
 七	thvt7*thɤt⁷
 人	nhvn1*ȵɤn¹
@@ -34,7 +35,7 @@ use_preset_vocabulary: true
 几	ki3*ki³
 了	liiu3*liːu³
 丁	din1*ʔdin¹
-# 三画
+# 三畫
 寸	thon5*thon⁵
 才	taai2*taːi²
 土	tho3*tho³
@@ -75,7 +76,7 @@ use_preset_vocabulary: true
 及	kip8*kip⁸
 及	vvp8*vɤp⁸
 及	kvp8*kɤp⁸
-# 四画
+# 四畫
 方	fooong5*fɔːŋ⁵
 方	fwwng1*fɯːŋ¹
 斗	dvu5*ʔdɤu⁵
@@ -84,7 +85,7 @@ use_preset_vocabulary: true
 王	vwwng1*vɯːŋ¹
 丈	twwng6*tɯːŋ⁶
 丈	dwwng6*ʔdɯːŋ⁶
-戈	kwa1*kwa¹
+戈	kWa1*kwa¹
 屯	don2*ʔdon²
 互	ho3*ho³
 太	thaai5*thaːi⁵
@@ -106,7 +107,7 @@ use_preset_vocabulary: true
 什	thvp8*thɤp⁸
 仁	nhvn1*ȵɤn¹
 化	fa1*fa¹
-化	hwa5*hwa⁵
+化	hWa5*hwa⁵
 仗	jwwng6*jɯːŋ⁶
 仍	nhang1*ȵaŋ¹
 仍	nhwng1*ȵɯŋ¹
@@ -141,7 +142,7 @@ use_preset_vocabulary: true
 凶	hung1*huŋ¹
 心	tim1*tim¹
 心	tvm1*tɤm¹
-月	ngwiit8*ŋwiːt⁸
+月	ngWiit8*ŋwiːt⁸
 丹	dvvn1*ʔdɤːn¹
 孔	khong3*khoŋ³
 午	ngoo6*ŋɔ⁶
@@ -162,11 +163,11 @@ use_preset_vocabulary: true
 切	thiit7*thiːt⁷
 丑	thiu3*thiu³
 巨	kw6*kɯ⁶
-元	ngwiin1*ŋwiːn¹
+元	ngWiin1*ŋwiːn¹
 片	fiin5*fiːn⁵
-火	hwa3*hwa³
+火	hWa3*hwa³
 火	foo5*fɔ⁵
-# 五画
+# 五畫
 主	tsu3*tsu³
 主	tsuy5*tsuə⁵
 永	vin3*vin³
@@ -207,7 +208,7 @@ use_preset_vocabulary: true
 只	tsi3*tsi³
 包	baau1*ʔbaːu¹
 句	kvu1*kɤu¹
-兄	hwin1*hwin¹
+兄	hWin1*hwin¹
 印	xin1*ʔin¹
 印	xvn5*ʔɤn⁵
 代	daai6*ʔdaːi⁶
@@ -227,7 +228,7 @@ use_preset_vocabulary: true
 𠆳	tum2*tum²
 㐱	tsin3*tsin³
 令	leng6*leŋ⁶
-瓜	kwa5*kwa⁵
+瓜	kWa5*kwa⁵
 台	thaai1*thaːi¹
 另	lan5*lan⁵
 加	ja1*ja¹
@@ -259,7 +260,7 @@ use_preset_vocabulary: true
 史	thw3*thɯ³
 母	mvu3*mɤu³
 去	khi5*khi⁵
-外	ngwaai6*ŋwaːi⁶
+外	ngWaai6*ŋwaːi⁶
 戊	mvu6*mɤu⁶
 艿	nvi3*nɤi³
 目	muk8*muk⁸
@@ -274,7 +275,7 @@ use_preset_vocabulary: true
 甘	kaam1*kaːm¹
 左	ta3*ta³
 左	tsoo5*tsɔ⁵
-# 六画
+# 六畫
 交	jaau1*jaːu¹
 亥	hvvi6*hɤːi⁶
 𤴥	ngvt7*ŋɤt⁷
@@ -341,7 +342,7 @@ use_preset_vocabulary: true
 吃	hvt7*hɤt⁷
 吀	sin1*sin¹
 𠯇	ri3*ri³
-名	jan7*jan¹
+名	jan1*jan¹
 吔	ja6*ja⁶
 𠮾	ngoot8*ŋɔt⁸
 吁	hu5*hu⁵
@@ -374,7 +375,7 @@ use_preset_vocabulary: true
 西	lhai5*ɬai⁵
 西	tvi1*tɤi¹
 再	taai5*taːi⁵
-圭	kwe1*kwe¹
+圭	kWe1*kwe¹
 有	hiu3*hiu³
 那	na1*na¹
 艮	ngan5*ŋan⁵
@@ -396,7 +397,7 @@ use_preset_vocabulary: true
 收	thu1*thu¹
 戌	tvt7*tɤt⁷
 刑	hin2*hin²
-光	kwaang1*kwaːŋ¹
+光	kWaang1*kwaːŋ¹
 耒	looi2*lɔi²
 耒	roi3*roi³
 因	nhang1*ȵaŋ¹
@@ -415,7 +416,7 @@ use_preset_vocabulary: true
 好	hiiu5*hiːu⁵
 好	hvu5*hɤu⁵
 血	tiit7*tiːt⁷
-血	hwiit7*hwiːt⁷
+血	hWiit7*hwiːt⁷
 朱	tsoo1*tsɔ¹
 年	niin1*niːn¹
 朵	doo3*ʔdɔ³
@@ -423,11 +424,11 @@ use_preset_vocabulary: true
 池	ti2*ti²
 全	toon2*tɔn²
 氽	mvi5*mɤi⁵
-阮	ngwiin3*ŋwiːn³
+阮	ngWiin3*ŋwiːn³
 延	jiin1*jiːn¹
-危	ngwi1*ŋwi¹
-# 七画
-完	hwaan2*hwaːn²
+危	ngWi1*ŋwi¹
+# 七畫
+完	hWaan2*hwaːn²
 辛	tvn1*tɤn¹
 㡳	de3*ʔde³
 府	fu3*fu³
@@ -436,7 +437,7 @@ use_preset_vocabulary: true
 良	lwwng1*lɯːŋ¹
 夾	kap8*kap⁸
 夾	keep8*kɛp⁸
-花	hwa1*hwa¹
+花	hWa1*hwa¹
 芣	bup7*ʔbup⁷
 芳	fwwng1*fɯːŋ¹
 芙	fu2*fu²
@@ -465,7 +466,7 @@ use_preset_vocabulary: true
 吟	gvm2*ɣɤm²
 邑	xoop7*ʔɔp⁷
 邑	xvp7*ʔɤp⁷
-吲	jan2*jan⁶
+吲	jan6*jan⁶
 吲	nhak7*ȵak⁷
 𠰏	meep7*mɛp⁷
 㕵	xuung5*ʔuːŋ⁵
@@ -481,7 +482,7 @@ use_preset_vocabulary: true
 吧	va1*va¹
 吻	vvn3*vɤn³
 呎	sit7*sit⁷
-快	khwai5*khwai⁵
+快	khWai5*khwai⁵
 𢗖	nhvm2*ȵɤm²
 忺	hvvn1*hɤːn¹
 忍	nhvn3*ȵɤn³
@@ -499,7 +500,7 @@ use_preset_vocabulary: true
 坂	fang3*faŋ³
 杏	han6*han⁶
 㘨	noi2*noi²
-均	kwvn1*kwɤn¹
+均	kWvn1*kwɤn¹
 圻	ki2*ki²
 𠀧	ba1*ʔba¹
 肝	gaan1*ɣaːn¹
@@ -545,7 +546,7 @@ use_preset_vocabulary: true
 抌	dvvm1*ʔdɤːm¹
 抌	dvm5*ʔdɤm⁵
 投	dvu2*ʔdɤu²
-抉	kweet8*kwɛt⁸
+抉	kWeet8*kwɛt⁸
 折	thiit8*thiːt⁸
 折	tsiit7*tsiːt⁷
 扲	kvm2*kɤm²
@@ -584,7 +585,7 @@ use_preset_vocabulary: true
 汵	ngvm1*ŋɤm¹
 沁	tam1*tam¹
 沁	tam5*tam⁵
-決	kwiit7*kwiːt⁷
+決	kWiit7*kwiːt⁷
 冷	lan6*lan⁶
 沔	miin2*miːn²
 汨	nhaat8*ȵaːt⁸
@@ -628,7 +629,7 @@ use_preset_vocabulary: true
 役	jit8*jit⁸
 役	viik8*viːk⁸
 肛	joom1*jɔm¹
-君	kwvn1*kwɤn¹
+君	kWvn1*kwɤn¹
 吞	than5*than⁵
 壯	taang5*taːŋ⁵
 妝	taang1*taːŋ¹
@@ -656,7 +657,7 @@ use_preset_vocabulary: true
 希	hvvi1*hɤːi¹
 𡶀	nui5*nui⁵
 尿	neeu2*nɛu²
-# 八画
+# 八畫
 空	khong1*khoŋ¹
 空	hung5*huŋ⁵
 穹	khung1*khuŋ¹
@@ -673,18 +674,18 @@ use_preset_vocabulary: true
 育	jook8*jɔk⁸
 育	juk8*juk⁸
 定	din6*ʔdin⁶
-官	kwaan1*kwaːn¹
+官	kWaan1*kwaːn¹
 宙	tu6*tu⁶
 夜	ja6*ja⁶
 刻	khak7*khak⁷
 房	foong2*fɔŋ²
 房	buung2*ʔbuːŋ²
 奉	fung6*fuŋ⁶
-卦	kwee3*kwɛ³
+卦	kWee3*kwɛ³
 其	ka2*ka²
 其	ki2*ki²
 固	ko5*ko⁵
-果	kwa3*kwa³
+果	kWa3*kwa³
 幸	han6*han⁶
 雨	vu3*vu³
 取	thu3*thu³
@@ -721,7 +722,7 @@ use_preset_vocabulary: true
 性	tin5*tin⁵
 怩	ne2*ne²
 怲	biing5*ʔbiːŋ⁵
-怪	kwaai5*kwaːi⁵
+怪	kWaai5*kwaːi⁵
 忠	tung1*tuŋ¹
 惡	xaak7*ʔaːk⁷
 𠰍	jo3*jo³
@@ -785,7 +786,7 @@ use_preset_vocabulary: true
 泥	ne2*ne²
 治	ti6*ti⁶
 泯	man2*man²
-𣳢	ngwaai2*ŋwaːi²
+𣳢	ngWaai2*ŋwaːi²
 𣳢	ngooi2*ŋɔi²
 𣳢	nguui6*ŋuːi⁶
 沫	met8*met⁸
@@ -812,7 +813,7 @@ use_preset_vocabulary: true
 例	le6*le⁶
 彼	fa1*fa¹
 受	thu6*thu⁶
-乖	kwaai5*kwaːi⁵
+乖	kWaai5*kwaːi⁵
 命	meng6*meŋ⁶
 拗	xaau5*ʔaːu⁵
 拂	fvt7*fɤt⁷
@@ -834,7 +835,7 @@ use_preset_vocabulary: true
 𢫕	vin6*vin⁶
 拮	gat8*ɣat⁸
 𢪷	muk7*muk⁷
-𢫑	ngwai5*ŋwai⁵
+𢫑	ngWai5*ŋwai⁵
 招	tsiiu1*tsiːu¹
 𢫟	thai3*thai³
 抪	buy3*ʔbuə³
@@ -861,7 +862,7 @@ use_preset_vocabulary: true
 金	kam5*kam⁵
 金	kim1*kim¹
 和	va2*va²
-和	hwa2*hwa²
+和	hWa2*hwa²
 岳	nhaak8*ȵaːk⁸
 兔	thoo3*thɔ³
 兔	thu1*thu¹
@@ -889,7 +890,7 @@ use_preset_vocabulary: true
 妬	do5*ʔdo⁵
 妾	thiip7*thiːp⁷
 妸	xa3*ʔa³
-委	xwi3*ʔwi³
+委	xWi3*ʔwi³
 妻	the1*the¹
 姅	nwy3*nɯə³
 始	thi3*thi³
@@ -901,15 +902,15 @@ use_preset_vocabulary: true
 𤇮	bep7*ʔbep⁷
 𤆺	hoong5*hɔŋ⁵
 炎	jiim1*jiːm¹
-卷	kwiin3*kwiːn³
+卷	kWiin3*kwiːn³
 卷	kuun5*kuːn⁵
 些	ta1*ta¹
 非	fi1*fi¹
-刮	kwaat7’*kwaːt⁷’
+刮	kWaat7’*kwaːt⁷’
 乸	na6*na⁶
 匼	khaap7*khaːp⁷
 衱	kaap8*kaːp⁸
-或	hwak8*hwak⁸
+或	hWak8*hwak⁸
 青	than1*than¹
 青	tsheng5*tsheŋ⁵
 青	san1*san¹
@@ -948,7 +949,7 @@ use_preset_vocabulary: true
 制	tse5*tse⁵
 兒	nhi1*ȵi¹
 念	niim6*niːm⁶
-# 九画
+# 九畫
 帝	de5*ʔde⁵
 度	doo1*ʔdɔ¹
 度	do6*ʔdo⁶
@@ -958,7 +959,7 @@ use_preset_vocabulary: true
 宣	tiin1*tiːn¹
 突	dot8*ʔdot⁸
 突	jot8*jot⁸
-宦	hwaan6*hwaːn⁶
+宦	hWaan6*hwaːn⁶
 庤	tsuy2*tsuə²
 疫	jit8*jit⁸
 𣃣	vwy2*vɯə²
@@ -982,7 +983,7 @@ use_preset_vocabulary: true
 胡	ho2*ho²
 面	jiin6*jiːn⁶
 厚	hvu6*hɤu⁶
-皇	hwaang2*hwaːŋ²
+皇	hWaang2*hwaːŋ²
 送	tong5*toŋ⁵
 退	lui1*lui¹
 虹	vong2*voŋ²
@@ -992,7 +993,7 @@ use_preset_vocabulary: true
 洅	twwi5*tɯːi⁵
 𣴜	thaak7*thaːk⁷
 洞	dong6*ʔdoŋ⁶
-活	hwaat8*hwaːt⁸
+活	hWaat8*hwaːt⁸
 𣴓	gaan6*ɣaːn⁶
 洋	jiing2*jiːŋ²
 洌	reet7*rɛt⁷
@@ -1023,14 +1024,14 @@ use_preset_vocabulary: true
 茨	tw2*tɯ²
 荄	gaai1*ɣaːi¹
 茬	tsooi2*tsɔi²
-荒	hwaang1*hwaːŋ¹
-威	xwi1*ʔwi¹
+荒	hWaang1*hwaːŋ¹
+威	xWi1*ʔwi¹
 政	tseng1*tseŋ¹
 政	tsin5*tsin⁵
 𥑂	tsaai1*tsaːi¹
 𤤰	vuy1*vuə¹
 恪	khaak7*khaːk⁷
-恍	hwaang3*hwaːŋ³
+恍	hWaang3*hwaːŋ³
 恨	hvn6*hɤn⁶
 恢	hoi1*hoi¹
 𢙨	tson2*tson²
@@ -1040,7 +1041,7 @@ use_preset_vocabulary: true
 急	kip7*kip⁷
 急	kvp7*kɤp⁷
 急	gvp7*ɣɤp⁷
-怨	xwaan5*ʔwaːn⁵
+怨	xWaan5*ʔwaːn⁵
 怨	xin1*ʔin¹
 負	fu6*fu⁶
 省	saang5*saːŋ⁵
@@ -1069,8 +1070,8 @@ use_preset_vocabulary: true
 秋	thu1*thu¹
 𥝽	kvi5*kɤi⁵
 拜	baai5*ʔbaːi⁵
-軍	kwvn1*kwɤn¹
-軍	kwan5*kwan⁵
+軍	kWvn1*kwɤn¹
+軍	kWan5*kwan⁵
 炮	faau5*faːu⁵
 𤇊	bvng2*ʔbɤŋ²
 𤇥	lvp8*lɤp⁸
@@ -1101,7 +1102,7 @@ use_preset_vocabulary: true
 咦	ri2*ri²
 哏	gam6*ɣam⁶
 哃	dung2*ʔduŋ²
-哇	khwee1*khwɛ¹
+哇	khWee1*khwɛ¹
 㖇	nhee5*ȵɛ⁵
 胣	ja6*ja⁶
 胎	thaai1*thaːi¹
@@ -1117,7 +1118,7 @@ use_preset_vocabulary: true
 𢫫	tuut8*tuːt⁸
 𫼩	neu1*neu¹
 拮	kvt7*kɤt⁷
-𪭱	kweet7*kwɛt⁷
+𪭱	kWeet7*kwɛt⁷
 拰	nhum5*ȵum⁵
 拙	soot7*sɔt⁷
 枷	ja1*ja¹
@@ -1189,12 +1190,12 @@ use_preset_vocabulary: true
 𥄭	ngu3*ŋu³
 屏	bin2*ʔbin²
 屍	thi1*thi¹
-屍	thri1*thri¹
+屍	thvi1*thɤi¹
 眉	mai2*mai²
 眉	mi1*mi¹
 風	foong1*fɔŋ¹
 風	fung5*fuŋ⁵
-科	khwa1*khwa¹
+科	khWa1*khwa¹
 待	daai3*ʔdaːi³
 待	raai3*raːi³
 待	dvvi6*ʔdɤːi⁶
@@ -1210,7 +1211,7 @@ use_preset_vocabulary: true
 𥫭	nwy5*nɯə⁵
 革	kat7*kat⁷
 陣	tsan6*tsan⁶
-軌	kwi3*kwi³
+軌	kWi3*kwi³
 𥄮	nham2*ȵam²
 𥄯	ngam5*ŋam⁵
 𤇊	bwng2*ʔbɯŋ²
@@ -1218,8 +1219,8 @@ use_preset_vocabulary: true
 炟	raan5*raːn⁵
 畑	deen2*ʔdɛn²
 𤇧	thwwi3*thɯːi³
-郡	kwan6*kwan⁶
-郡	kwvn3*kwɤn³
+郡	kWan6*kwan⁶
+郡	kWvn3*kwɤn³
 玻	poo5*pɔ⁵
 段	doon6*ʔdɔn⁶
 𬂥	that7*that⁷
@@ -1257,14 +1258,14 @@ use_preset_vocabulary: true
 姻	nhvn1*ȵɤn¹
 姨	ji2*ji²
 屈	vat7*vat⁷
-屈	khwvt7*khwɤt⁷
+屈	khWvt7*khwɤt⁷
 耔	ti3*ti³
 垨	thoo5*thɔ⁵
 垌	dong2*ʔdoŋ²
 𡋂	nen2*nen²
-𱖨	hwaai2*hwaːi²
+𱖨	hWaai2*hwaːi²
 垠	ngvn2*ŋɤn²
-鬼	kwi3*kwi³
+鬼	kWi3*kwi³
 骨	kot7*kot⁷
 𢏢	koo1*kɔ¹
 甚	thvm6*thɤm⁶
@@ -1283,7 +1284,7 @@ use_preset_vocabulary: true
 恄	geet7*ɣɛt⁷
 為	vi1*vi¹
 為	vi2*vi²
-# 十画
+# 十畫
 站	taam6*taːm⁶
 案	xaan5*ʔaːn⁵
 家	ja1*ja¹
@@ -1320,7 +1321,7 @@ use_preset_vocabulary: true
 真	tsvn1*tsɤn¹
 𫈃	kuung5*kuːŋ⁵
 荳	dvu6*ʔdɤu⁶
-華	hwa1*hwa¹
+華	hWa1*hwa¹
 莨	laang1*laːŋ¹
 莽	maang3*maːŋ³
 𦰣	dai1*ʔdai¹
@@ -1329,10 +1330,10 @@ use_preset_vocabulary: true
 梛	na1*na¹
 根	kan1*kan¹
 桃	daau2*ʔdaːu²
-桓	hwaan2*hwaːn²
-框	khwaak7’*khwaːk⁷’
+桓	hWaan2*hwaːn²
+框	khWaak7’*khwaːk⁷’
 桔	kaat7*kaːt⁷
-桂	kwe5*kwe⁵
+桂	kWe5*kwe⁵
 校	kaau1*kaːu¹
 校	hiiu6*hiːu⁶
 栘	da1*ʔda¹
@@ -1344,7 +1345,7 @@ use_preset_vocabulary: true
 核	hot8*hot⁸
 核	kvi1*kɤi¹
 都	do1*ʔdo¹
-原	ngwiin1*ŋwiːn¹
+原	ngWiin1*ŋwiːn¹
 航	haang2*haːŋ²
 逢	fung2*fuŋ²
 逗	dvu6*ʔdɤu⁶
@@ -1372,7 +1373,7 @@ use_preset_vocabulary: true
 捕	boo3*ʔbɔ³
 挬	vut8*vut⁸
 𢭹	lvn2*lɤn²
-捃	khwvn1*khwɤn¹
+捃	khWvn1*khwɤn¹
 素	to5*to⁵
 匪	fi3*fi³
 針	tsam5*tsam⁵
@@ -1407,7 +1408,7 @@ use_preset_vocabulary: true
 浘	vi3*vi³
 娘	naang2*naːŋ²
 娘	nwwng1*nɯːŋ¹
-娟	kwiin1*kwiːn¹
+娟	kWiin1*kwiːn¹
 㛎	nhv3*ȵɤ³
 𣵰	lan6*lan⁶
 涅	neet7*nɛt⁷
@@ -1483,7 +1484,7 @@ use_preset_vocabulary: true
 條	diiu2*ʔdiːu²
 症	tsin5*tsin⁵
 症	tswng5*tsɯŋ⁵
-𧉙	jun8*jun¹
+𧉙	jun1*jun¹
 蚊	man5*man⁵
 𧉝	kai5*kai⁵
 蚓	rvn6*rɤn⁶
@@ -1500,7 +1501,7 @@ use_preset_vocabulary: true
 陸	luk8*luk⁸
 郵	biu1*ʔbiu¹
 郵	jau2*jau²
-冤	xwaan1*ʔwaːn¹
+冤	xWaan1*ʔwaːn¹
 記	ki5*ki⁵
 配	foi1*foi¹
 配	foi5*foi⁵
@@ -1558,7 +1559,7 @@ use_preset_vocabulary: true
 豹	baau5*ʔbaːu⁵
 袍	baau2*ʔbaːu²
 教	jaau5*jaːu⁵
-缺	khwiit7*khwiːt⁷
+缺	khWiit7*khwiːt⁷
 𱍘	vwt7*vɯt⁷
 氣	khi5*khi⁵
 酌	tswwk7*tsɯːk⁷
@@ -1624,10 +1625,10 @@ use_preset_vocabulary: true
 蚩	si3*si³
 島	daau3*ʔdaːu³
 兼	kiim1*kiːm¹
-癸	kwi5*kwi⁵
+癸	kWi5*kwi⁵
 畢	pat7*pat⁷
 剝	book7*ʔbɔk⁷
-# 十一画
+# 十一畫
 章	tswwng1*tsɯːŋ¹
 產	thaan3*thaːn³
 產	than3*than³
@@ -1654,7 +1655,7 @@ use_preset_vocabulary: true
 麻	ma2*ma²
 竟	kan6*kan⁶
 帶	daai1*ʔdaːi¹
-黄	hwaang2*hwaːŋ²
+黄	hWaang2*hwaːŋ²
 黄	vooong2*vɔːŋ²
 𠫾	di1*ʔdi¹
 豉	si2*si²
@@ -1677,7 +1678,7 @@ use_preset_vocabulary: true
 淪	lan6*lan⁶
 淪	lvn1*lɤn¹
 清	than1*than¹
-淮	hwaai2*hwaːi²
+淮	hWaai2*hwaːi²
 淶	laai1*laːi¹
 淶	rvvi1*rɤːi¹
 淶	lvi1*lɤi¹
@@ -1723,12 +1724,12 @@ use_preset_vocabulary: true
 麥	mat8*mat⁸
 菜	tshooi1*tshɔi¹
 𦲿	la5*la⁵
-𦱊	jan1*jan⁵
+𦱊	jan5*jan⁵
 菍	nvm5*nɤm⁵
 菊	kuk7*kuk⁷
 營	jin1*jin¹
 菩	bo2*ʔbo²
-菓	kwa3*kwa³
+菓	kWa3*kwa³
 萍	bin2*ʔbin²
 曹	taau2*taːu²
 票	fiiu5*fiːu⁵
@@ -1738,7 +1739,7 @@ use_preset_vocabulary: true
 掠	lwwk8*lɯːk⁸
 㨃	xwwn3*ʔɯːn³
 探	fam1*fam¹
-掛	kwvi5*kwɤi⁵
+掛	kWvi5*kwɤi⁵
 𢯖	kheep7*khɛp⁷
 捹	buung1*ʔbuːŋ¹
 捹	vun1*vun¹
@@ -1761,7 +1762,7 @@ use_preset_vocabulary: true
 掑	kaai2*kaːi²
 掑	gvi1*ɣɤi¹
 接	tiip7*tiːp⁷
-𢮿	kwaai1*kwaːi¹
+𢮿	kWaai1*kwaːi¹
 𢯢	thwy3*thɯə³
 掏	daau2*ʔdaːu²
 捽	loot7*lɔt⁷
@@ -1832,13 +1833,13 @@ use_preset_vocabulary: true
 假	ja3*ja³
 停	din2*ʔdin²
 停	jwng2*jɯŋ²
-偽	ngwi6*ŋwi⁶
+偽	ngWi6*ŋwi⁶
 偉	vai5*vai⁵
 偉	vi3*vi³
 偕	jaai1*jaːi¹
 𫣂	jiing2*jiːŋ²
 偏	thiin1*thiːn¹
-倔	kwvt8*kwɤt⁸
+倔	kWvt8*kwɤt⁸
 徘	boi2*ʔboi²
 術	thvt8*thɤt⁸
 𡹡	gan2*ɣan²
@@ -1849,7 +1850,7 @@ use_preset_vocabulary: true
 偷	thvu2*thɤu²
 鄉	hwwng1*hɯːŋ¹
 野	ja3*ja³
-訛	ngwa1*ŋwa¹
+訛	ngWa1*ŋwa¹
 訪	foong3*fɔŋ³
 設	thit7*thit⁷
 悗	men5*men⁵
@@ -1891,7 +1892,7 @@ use_preset_vocabulary: true
 焫	naat7’*naːt⁷’
 逸	jaat8*jaːt⁸
 逴	rwwk7*rɯːk⁷
-過	kwa5*kwa⁵
+過	kWa5*kwa⁵
 進	tiin5*tiːn⁵
 軛	xat7*ʔat⁷
 猜	tshaai5*tshaːi⁵
@@ -1912,8 +1913,8 @@ use_preset_vocabulary: true
 𥒦	diy3*ʔdiə³
 頂	din3*ʔdin³
 頂	din5*ʔdin⁵
-國	kwoook7’*kwɔːk⁷’
-國	kwok7*kwok⁷
+國	kWoook7’*kwɔːk⁷’
+國	kWok7*kwok⁷
 𨳚	muun5*muːn⁵
 間	jaan1*jaːn¹
 間	jaan5*jaːn⁵
@@ -1963,7 +1964,7 @@ use_preset_vocabulary: true
 雪	tiit7*tiːt⁷
 雪	lhit7’*ɬit⁷’
 戚	thit7*thit⁷
-貨	hwa5*hwa⁵
+貨	hWa5*hwa⁵
 覓	mit7*mit⁷
 釵	thoo1*thɔ¹
 釧	seen5*sɛn⁵
@@ -1986,9 +1987,9 @@ use_preset_vocabulary: true
 設	thiit7*thiːt⁷
 專	tsiin1*tsiːn¹
 船	thiin2*thiːn²
-庯	kwaang5*kwaːŋ⁵
+庯	kWaang5*kwaːŋ⁵
 現	hiin6*hiːn⁶
-規	kwi1*kwi¹
+規	kWi1*kwi¹
 𡥵	koon1*kɔn¹
 乾	kiin2*kiːn²
 隆	loong1*lɔŋ¹
@@ -2004,7 +2005,7 @@ use_preset_vocabulary: true
 祭	te5*te⁵
 兜	dvu1*ʔdɤu¹
 𬛀	koong3*kɔŋ³
-# 十二画
+# 十二畫
 寒	haan2*haːn²
 廁	si5*si⁵
 𤶽	buut7*ʔbuːt⁷
@@ -2015,9 +2016,9 @@ use_preset_vocabulary: true
 𠦳	ngaan2*ŋaːn²
 𠦳	ngin2*ŋin²
 𥚥	laai3*laːi³
-浘	vai5*vai⁵
+𧚟	vai5*vai⁵
 禍	va6*va⁶
-禍	hwa6*hwa⁶
+禍	hWa6*hwa⁶
 祿	lok8*lok⁸
 補	bo3*ʔbo³
 補	bu2*ʔbu²
@@ -2031,10 +2032,10 @@ use_preset_vocabulary: true
 喜	hi3*hi³
 裂	liit8*liːt⁸
 越	viit8*viːt⁸
-畫	hwa6*hwa⁶
+畫	hWa6*hwa⁶
 森	thum1*thum¹
 森	tsum2*tsum²
-棺	kwaan1*kwaːn¹
+棺	kWaan1*kwaːn¹
 椥	tee1*tɛ¹
 楛	go3*ɣo³
 棦	tsan1*tsan¹
@@ -2054,10 +2055,10 @@ use_preset_vocabulary: true
 散	taan1*taːn¹
 散	taan3*taːn³
 𢞂	buun2*ʔbuːn²
-惶	hwaang2*hwaːŋ²
+惶	hWaang2*hwaːŋ²
 愊	bwk8*ʔbɯk⁸
-愧	kwen1*kwen¹
-慌	hwaang1*hwaːŋ¹
+愧	kWen1*kwen¹
+慌	hWaang1*hwaːŋ¹
 𫺶	jvn6*jɤn⁶
 𢝙	vui1*vui¹
 𢠿	vv1*vɤ¹
@@ -2077,11 +2078,11 @@ use_preset_vocabulary: true
 揕	tsvm6*tsɤm⁶
 揚	jwwng1*jɯːŋ¹
 揀	jaang5*jaːŋ⁵
-揷	sep6*sep⁷
+揷	sep7*sep⁷
 摁	xvn5*ʔɤn⁵
 援	viin6*viːn⁶
 㧼	viu5*viu⁵
-揮	hwi1*hwi¹
+揮	hWi1*hwi¹
 掘	vat8*vat⁸
 掣	siit7*siːt⁷
 䔍	ma5*ma⁵
@@ -2090,7 +2091,7 @@ use_preset_vocabulary: true
 落	loook8*lɔːk⁸
 落	raak8*raːk⁸
 萻	xoom1*ʔɔm¹
-葵	khwai2*khwai²
+葵	khWai2*khwai²
 萱	hiin1*hiːn¹
 𦵠	hee6*hɛ⁶
 𦵚	nu6*nu⁶
@@ -2129,7 +2130,7 @@ use_preset_vocabulary: true
 測	tak7*tak⁷
 溈	vvvi2*vɤːi²
 渼	mee3*mɛ³
-滑	hwaat8*hwaːt⁸
+滑	hWaat8*hwaːt⁸
 𣹘	jaai3*jaːi³
 湥	joot8*jɔt⁸
 湥	juuk8*juːk⁸
@@ -2184,7 +2185,7 @@ use_preset_vocabulary: true
 單	dvvn1*ʔdɤːn¹
 𠔦	lin5*lin⁵
 𬙞	bai3*ʔbai³
-猾	hwaat8*hwaːt⁸
+猾	hWaat8*hwaːt⁸
 𤠆	xwwi1*ʔɯːi¹
 媄	mee6*mɛ⁶
 筥	ra5*ra⁵
@@ -2200,7 +2201,7 @@ use_preset_vocabulary: true
 統	thong5*thoŋ⁵
 給	kvp7*kɤp⁷
 絡	laak8*laːk⁸
-絖	kwaang2*kwaːŋ²
+絖	kWaang2*kwaːŋ²
 結	ket7*ket⁷
 結	kiit7*kiːt⁷
 絕	tiit8*tiːt⁸
@@ -2254,14 +2255,14 @@ use_preset_vocabulary: true
 𧋆	jooi2*jɔi²
 𧋆	ruui2*ruːi²
 𧋃	tsuun2*tsuːn²
-蛫	ngwee5*ŋwɛ⁵
+蛫	ngWee5*ŋwɛ⁵
 蛚	ret7*ret⁷
 𧋽	maang1*maːŋ¹
 訴	to5*to⁵
 註	tsu5*tsu⁵
 詞	tw2*tɯ²
 評	bin2*ʔbin²
-裙	kwvn2*kwɤn²
+裙	kWvn2*kwɤn²
 隔	kat7*kat⁷
 𣨰	thaak7*thaːk⁷
 𬆘	xwwn1*ʔɯːn¹
@@ -2305,12 +2306,12 @@ use_preset_vocabulary: true
 貼	thiip7*thiːp⁷
 買	mvvi5*mɤːi⁵
 費	fi5*fi⁵
-貴	kwi5*kwi⁵
+貴	kWi5*kwi⁵
 賀	ha6*ha⁶
 賀	hoo2*hɔ²
 貿	mvu6*mɤu⁶
-貫	kwaan1*kwaːn¹
-貫	kwaan5*kwaːn⁵
+貫	kWaan1*kwaːn¹
+貫	kWaan5*kwaːn⁵
 弼	bvt8*ʔbɤt⁸
 𤚇	ngee5*ŋɛ⁵
 雁	nhaan6*ȵaːn⁶
@@ -2356,7 +2357,7 @@ use_preset_vocabulary: true
 婿	re3*re³
 𢧚	nen1*nen¹
 𣭨	ten1*ten¹
-# 十三画
+# 十三畫
 福	fuk7*fuk⁷
 新	tvn1*tɤn¹
 𣦍	ngai1*ŋai¹
@@ -2386,7 +2387,7 @@ use_preset_vocabulary: true
 跢	da5*ʔda⁵
 𨀿	kang3*kaŋ³
 跡	tit7*tit⁷
-跪	kwi2*kwi²
+跪	kWi2*kwi²
 𨀤	juui3*juːi³
 碑	bi1*ʔbi¹
 碑	biy1*ʔbiə¹
@@ -2404,9 +2405,9 @@ use_preset_vocabulary: true
 鉤	kvu1*kɤu¹
 幹	kaan5*kaːn⁵
 損	ton3*ton³
-搉	khwak7*khwak⁷
+搉	khWak7*khwak⁷
 搛	kiim5*kiːm⁵
-搎	jun8*jun¹
+搎	jun1*jun¹
 楸	thu5*thu⁵
 𣗑	tsaan6*tsaːn⁶
 楣	mai2*mai²
@@ -2421,11 +2422,11 @@ use_preset_vocabulary: true
 楣	mee1*mɛ¹
 㮙	ngaak8*ŋaːk⁸
 𣖙	miy5*miə⁵
-槐	hwee2*hwɛ²
+槐	hWee2*hwɛ²
 椳	xoi3*ʔoi³
 禁	kvm5*kɤm⁵
 楚	thv3*thɤ³
-摆	baai3*ʔbaːi³
+擺	baai3*ʔbaːi³
 搮	lvt8*lɤt⁸
 㨢	nvng1*nɤŋ¹
 搊	thoo1*thɔ¹
@@ -2460,9 +2461,9 @@ use_preset_vocabulary: true
 暗	xaam5*ʔaːm⁵
 暈	vaang5*vaːŋ⁵
 暈	vvng2*vɤŋ²
-誇	khwa1*khwa¹
+誇	khWa1*khwa¹
 該	kaai1*kaːi¹
-詭	kwi3*kwi³
+詭	kWi3*kwi³
 詳	twwng2*tɯːŋ²
 意	xi5*ʔi⁵
 當	daang1*ʔdaːŋ¹
@@ -2545,7 +2546,7 @@ use_preset_vocabulary: true
 𣺽	baai3*ʔbaːi³
 𣻆	tuun1*tuːn¹
 源	nguun2*ŋuːn²
-𣼼	jan8*jan²
+𣼼	jan2*jan²
 𣻢	thong1*thoŋ¹
 满	maan3*maːn³
 滅	jiit8*jiːt⁸
@@ -2553,7 +2554,7 @@ use_preset_vocabulary: true
 𣼩	xvm3*ʔɤm³
 滃	xoong3*ʔɔŋ³
 群	koon2*kɔn²
-群	kwvn2*kwɤn²
+群	kWvn2*kwɤn²
 䅘	laai1*laːi¹
 督	dok7*ʔdok⁷
 𥇷	nhoom2*ȵɔm²
@@ -2576,7 +2577,7 @@ use_preset_vocabulary: true
 𠍭	gvp7*ɣɤp⁷
 預	jw6*jɯ⁶
 頒	baan1*ʔbaːn¹
-頑	ngwaan1*ŋwaːn¹
+頑	ngWaan1*ŋwaːn¹
 資	tw1*tɯ¹
 剿	tiiu3*tiːu³
 𪪅	xem1*ʔem¹
@@ -2609,7 +2610,7 @@ use_preset_vocabulary: true
 雷	loi1*loi¹
 當	dwwng1*ʔdɯːŋ¹
 瑪	ma3*ma³
-觥	kwan1*kwan¹
+觥	kWan1*kwan¹
 暖	nin5*nin⁵
 暇	ha6*ha⁶
 𣉍	xooi1*ʔɔi¹
@@ -2626,7 +2627,7 @@ use_preset_vocabulary: true
 齊	te2*te²
 勤	kvn2*kɤn²
 勤	kun2*kun²
-跬	khwee3*khwɛ³
+跬	khWee3*khwɛ³
 路	loo6*lɔ⁶
 路	lo6*lo⁶
 跳	thiu1*thiu¹
@@ -2649,7 +2650,7 @@ use_preset_vocabulary: true
 魁	khoi1*khoi¹
 熙	hvi1*hɤi¹
 會	hoi6*hoi⁶
-毁	hwi3*hwi³
+毁	hWi3*hwi³
 舅	kvu6*kɤu⁶
 𬐌	fv1*fɤ¹
 𣩂	tset7*tset⁷
@@ -2664,19 +2665,19 @@ use_preset_vocabulary: true
 彙	hoi6*hoi⁶
 亂	lon6*lon⁶
 與	jw6*jɯ⁶
-# 十四画
-廣	kwaang3*kwaːŋ³
-廣	kwooong5*kwɔːŋ⁵
+# 十四畫
+廣	kWaang3*kwaːŋ³
+廣	kWooong5*kwɔːŋ⁵
 腐	fu2*fu²
 腐	fu6*fu⁶
 瘖	xom5*ʔom⁵
 𤷿	nhoot8*ȵɔt⁸
-𦑗	kwaat8*kwaːt⁸
+𦑗	kWaat8*kwaːt⁸
 察	thaat7*thaːt⁷
 實	thvt8*thɤt⁸
 豪	haau2*haːu²
 寡	va5*va⁵
-寬	khwaan1*khwaːn¹
+寬	khWaan1*khwaːn¹
 蜜	mvt8*mɤt⁸
 膏	kaau1*kaːu¹
 寧	nin1*nin¹
@@ -2706,7 +2707,7 @@ use_preset_vocabulary: true
 駕	ja5*ja⁵
 𩵜	ka5*ka⁵
 鳳	fwwng6*fɯːŋ⁶
-銙	khwa5*khwa⁵
+銙	khWa5*khwa⁵
 漉	look8*lɔk⁸
 漲	twwng5*tɯːŋ⁵
 漏	lvu6*lɤu⁶
@@ -2790,7 +2791,7 @@ use_preset_vocabulary: true
 養	jwwng3*jɯːŋ³
 𥯉	doo5*ʔdɔ⁵
 𣘈	thoon1*thɔn¹
-輑	kwvn2*kwɤn²
+輑	kWvn2*kwɤn²
 輔	fu6*fu⁶
 輕	khin1*khin¹
 魄	fat7*fat⁷
@@ -2813,13 +2814,13 @@ use_preset_vocabulary: true
 慘	thaam3*thaːm³
 慷	khaang1*khaːŋ¹
 慳	geen1*ɣɛn¹
-慣	kween1*kwɛn¹
+慣	kWeen1*kwɛn¹
 態	thaai5*thaːi⁵
 誤	ng2*ŋ̍²
 語	ngw3*ŋɯ³
 誦	tung6*tuŋ⁶
 箕	kiy1*kiə¹
-管	kwaan3*kwaːn³
+管	kWaan3*kwaːn³
 𥯇	joo3*jɔ³
 𥯇	ro3*ro³
 箍	khu1*khu¹
@@ -2835,7 +2836,7 @@ use_preset_vocabulary: true
 𬁎	jong1*joŋ¹
 𥈴	ngwwk7*ŋɯːk⁷
 𥈶	noom1*nɔm¹
-𩾷	kwa6*kwa⁶
+𩾷	kWa6*kwa⁶
 獄	nguk8*ŋuk⁸
 暢	thwwng5*thɯːŋ⁵
 獎	twwng3*tɯːŋ³
@@ -2878,7 +2879,7 @@ use_preset_vocabulary: true
 閣	kaak7*kaːk⁷
 閣	gaak7*ɣaːk⁷
 閧	hoong3*hɔŋ³
-閨	khwe1*khwe¹
+閨	khWe1*khwe¹
 適	thit7*thit⁷
 𡮣	bee5*ʔbɛ⁵
 𤛇	tsan1*tsan¹
@@ -2906,7 +2907,7 @@ use_preset_vocabulary: true
 𨖲	len1*len¹
 𫺱	ngi3*ŋi³
 製	tse5*tse⁵
-# 十五画
+# 十五畫
 審	thvm3*thɤm³
 窮	kung2*kuŋ²
 熟	thuuk8*thuːk⁸
@@ -2926,7 +2927,7 @@ use_preset_vocabulary: true
 慶	khan5*khan⁵
 毅	ngi6*ŋi⁶
 糊	ho2*ho²
-浌	jaai2*jaːi²
+𨱽	jaai2*jaːi²
 𢆥	nam1*nam¹
 𥧪	rong3*roŋ³
 𦓅	ja2*ja²
@@ -2940,7 +2941,7 @@ use_preset_vocabulary: true
 𨤔	vee3*vɛ³
 罷	baai3*ʔbaːi³
 蝒	nhen6*ȵen⁶
-課	khwa5*khwa⁵
+課	khWa5*khwa⁵
 誹	fi3*fi³
 論	ton6*ton⁶
 論	lvn2*lɤn²
@@ -2958,7 +2959,7 @@ use_preset_vocabulary: true
 踏	diip8*ʔdiːp⁸
 踤	nhoot7*ȵɔt⁷
 踢	theek7’*thɛk⁷’
-𫏓	kwai1*kwai¹
+𫏓	kWai1*kwai¹
 賭	do3*ʔdo³
 賤	tiin6*tiːn⁶
 賥	dut7*ʔdut⁷
@@ -3012,9 +3013,9 @@ use_preset_vocabulary: true
 㜥	maai5*maːi⁵
 嫺	nhaan2*ȵaːn²
 嬋	thiin2*thiːn²
-𦄄	kwvn5*kwɤn⁵
+𦄄	kWvn5*kwɤn⁵
 緞	doon6*ʔdɔn⁶
-緩	hwaan3*hwaːn³
+緩	hWaan3*hwaːn³
 緘	jaam2*jaːm²
 練	liin6*liːn⁶
 編	biin1*ʔbiːn¹
@@ -3183,12 +3184,12 @@ use_preset_vocabulary: true
 熱	jit8*jit⁸
 𤍌	thiing1*thiːŋ¹
 𨉟	min2*min²
-輝	hwi1*hwi¹
+輝	hWi1*hwi¹
 𫒥	voong2*vɔŋ²
 鋒	foong1*fɔŋ¹
 銷	tiiu1*tiːu¹
 鬧	naau5*naːu⁵
-# 十六画
+# 十六畫
 瘴	tswwng5*tsɯːŋ⁵
 𣋀	thaau1*thaːu¹
 𬡬	dung3*ʔduŋ³
@@ -3229,7 +3230,7 @@ use_preset_vocabulary: true
 橋	keeu2*kɛu²
 橋	kvu2*kɤu²
 機	kv1*kɤ¹
-橘	kwit7*kwit⁷
+橘	kWit7*kwit⁷
 激	khit7*khit⁷
 輪	lvn1*lɤn¹
 輪	lvn2*lɤn²
@@ -3238,7 +3239,7 @@ use_preset_vocabulary: true
 燈	dang1*ʔdaŋ¹
 謎	mai2*mai²
 謀	miu1*miu¹
-館	kwaan5*kwaːn⁵
+館	kWaan5*kwaːn⁵
 餞	tiin3*tiːn³
 簁	joo2*jɔ²
 醝	thai1*thai¹
@@ -3341,14 +3342,14 @@ use_preset_vocabulary: true
 𪀄	tsim1*tsim¹
 𩩖	thong5*thoŋ⁵
 𨃴	goot7*ɣɔt⁷
-𨃑	khweeu2*khwɛu²
+𨃑	khWeeu2*khwɛu²
 戰	tsiin5*tsiːn⁵
 燃	nhiin1*ȵiːn¹
 聯	liin1*liːn¹
 𫴋	suung5*suːŋ⁵
-縣	hwiin6*hwiːn⁶
+縣	hWiin6*hwiːn⁶
 奮	fvn5*fɤn⁵
-還	hwaan2*hwaːn²
+還	hWaan2*hwaːn²
 避	ti6*ti⁶
 隱	xvn3*ʔɤn³
 龍	loong1*lɔŋ¹
@@ -3374,7 +3375,7 @@ use_preset_vocabulary: true
 𢀭	jau2*jau²
 𥊢	thang3*thaŋ³
 默	mak8*mak⁸
-# 十七画
+# 十七畫
 齋	taai1*taːi¹
 齋	tsai1*tsai¹
 癆	laau1*laːu¹
@@ -3429,7 +3430,7 @@ use_preset_vocabulary: true
 舊	kiu6*kiu⁶
 𫊁	tvu5*tɤu⁵
 擱	gaak7*ɣaːk⁷
-擴	khwaak7*khwaːk⁷
+擴	khWaak7*khwaːk⁷
 𢷰	khiing1*khiːŋ¹
 擬	ngi3*ŋi³
 艚	tau2*tau²
@@ -3444,7 +3445,7 @@ use_preset_vocabulary: true
 𥼕	leep7*lɛp⁷
 優	xiu1*ʔiu¹
 德	dwk7*ʔdɯk⁷
-徽	hwi1*hwi¹
+徽	hWi1*hwi¹
 𥳂	lwwk8*lɯːk⁸
 䈺	tsong1*tsoŋ¹
 篾	meet8*mɛt⁸
@@ -3486,7 +3487,7 @@ use_preset_vocabulary: true
 點	diim3*ʔdiːm³
 點	tsvm5*tsɤm⁵
 騎	kwwi3*kɯːi³
-環	hwaan2*hwaːn²
+環	hWaan2*hwaːn²
 曚	mong2*moŋ²
 𤔽	moong5*mɔŋ⁵
 𥋳	kooi1*kɔi¹
@@ -3496,8 +3497,8 @@ use_preset_vocabulary: true
 蹕	tvt7*tɤt⁷
 𨢇	riiu6*riːu⁶
 𠠚	see5*sɛ⁵
-歸	kwi1*kwi¹
-𤔷	jan8*jan²
+歸	kWi1*kwi¹
+𤔷	jan2*jan²
 臨	lvm1*lɤm¹
 聲	than1*than¹
 聰	thong1*thoŋ¹
@@ -3508,14 +3509,14 @@ use_preset_vocabulary: true
 矯	kiiu3*kiːu³
 彌	ji1*ji¹
 鞠	kuk7*kuk⁷
-闊	khwaat7*khwaːt⁷
+闊	khWaat7*khwaːt⁷
 𩍣	jeep7*jɛp⁷
 殮	liim6*liːm⁶
 氈	tsiin1*tsiːn¹
-虧	khwi1*khwi¹
+虧	khWi1*khwi¹
 輿	jw1*jɯ¹
 𩶱	tsat8*tsat⁸
-# 十八画
+# 十八畫
 癐	hooi5*hɔi⁵
 𤻒	tooi1*tɔi¹
 襘	goi5*ɣoi⁵
@@ -3526,7 +3527,7 @@ use_preset_vocabulary: true
 𩷳	vai3*vai³
 雜	taap8*taːp⁸
 雜	tsaap8*tsaːp⁸
-鵑	kwiin1*kwiːn¹
+鵑	kWiin1*kwiːn¹
 韓	haan2*haːn²
 𢸡	siy3*siə³
 擸	sop7*sop⁷
@@ -3535,8 +3536,8 @@ use_preset_vocabulary: true
 擻	soo3*sɔ³
 㩫	jat7*jat⁷
 𢷹	jin2*jin²
-櫃	kwai2*kwai²
-櫃	kwvi2*kwɤi²
+櫃	kWai2*kwai²
+櫃	kWvi2*kwɤi²
 櫗	mit7*mit⁷
 𦏓	boon6*ʔbɔn⁶
 離	liy2*liə²
@@ -3575,7 +3576,7 @@ use_preset_vocabulary: true
 霧	mu2*mu²
 𩄲	mvi1*mɤi¹
 𡓃	thooi3*thɔi³
-𡓃	thooi5*thɔi⁵
+𤢿	thooi5*thɔi⁵
 謹	kin5*kin⁵
 謹	kvn3*kɤn³
 謳	xvu1*ʔɤu¹
@@ -3607,17 +3608,17 @@ use_preset_vocabulary: true
 離	li1*li¹
 𡗉	nhiiu2*ȵiːu²
 題	de2*ʔde²
-曠	khwaang3*khwaːŋ³
+曠	khWaang3*khwaːŋ³
 𣋩	laat7*laːt⁷
 蜹	tsat7*tsat⁷
 𢤞	heen2*hɛn²
-瓊	kwin2*kwin²
+瓊	kWin2*kwin²
 釐	li1*li¹
 釐	li2*li²
 醫	xi1*ʔi¹
 豐	foong1*fɔŋ¹
 𢖖	thau1*thau¹
-# 十九画
+# 十九畫
 𫴞	tha2*tha²
 𡗋	lam5*lam⁵
 韻	vvn6*vɤn⁶
@@ -3635,7 +3636,7 @@ use_preset_vocabulary: true
 𢹆	gaai2*ɣaːi²
 𢸾	hang1*haŋ¹
 攑	gv3*ɣɤ³
-藿	hwak7*hwak⁷
+藿	hWak7*hwak⁷
 蘅	han2*han²
 蘢	roong1*rɔŋ¹
 蘇	to1*to¹
@@ -3645,8 +3646,8 @@ use_preset_vocabulary: true
 鵬	baang2*ʔbaːŋ²
 𪂮	koo2*kɔ²
 饅	maan2*maːn²
-懷	hwaai2*hwaːi²
-壞	hwaai6*hwaːi⁶
+懷	hWaai2*hwaːi²
+壞	hWaai6*hwaːi⁶
 𢥈	loo1*lɔ¹
 𢥇	tsaan5*tsaːn⁵
 壟	luung5*luːŋ⁵
@@ -3657,7 +3658,7 @@ use_preset_vocabulary: true
 𱆴	lvm2*lɤm²
 𲌺	kuy1*kuə¹
 礙	ngaai6*ŋaːi⁶
-礦	khwaang5*khwaːŋ⁵
+礦	khWaang5*khwaːŋ⁵
 𥖺	mee3*mɛ³
 𨅸	dwng5*ʔdɯŋ⁵
 𨆓	kum2*kum²
@@ -3677,12 +3678,12 @@ use_preset_vocabulary: true
 難	naan6*naːn⁶
 𫷓	luun1*luːn¹
 𥶃	mung3*muŋ³
-關	kwaan1*kwaːn¹
-關	kwaan5*kwaːn⁵
+關	kWaan1*kwaːn¹
+關	kWaan5*kwaːn⁵
 類	looi2*lɔi²
 類	looi6*lɔi⁶
-願	ngwiin2*ŋwiːn²
-願	ngwiin6*ŋwiːn⁶
+願	ngWiin2*ŋwiːn²
+願	ngWiin6*ŋwiːn⁶
 爆	baau6*ʔbaːu⁶
 爆	pvu1*pɤu¹
 𤑟	roo3*rɔ³
@@ -3701,7 +3702,7 @@ use_preset_vocabulary: true
 轎	kiiu6*kiːu⁶
 𧓅	noong2*nɔŋ²
 蹺	theeu1*thɛu¹
-蹶	kwee2*kwɛ²
+蹶	kWee2*kwɛ²
 𨅹	teeu2*tɛu²
 霳	loong6*lɔŋ⁶
 𪪉	man5*man⁵
@@ -3711,7 +3712,7 @@ use_preset_vocabulary: true
 瀝	that8*that⁸
 獸	thu5*thu⁵
 辭	tw2*tɯ²
-# 二十画
+# 二十畫
 競	kan6*kan⁶
 寶	baau3*ʔbaːu³
 寶	bau5*ʔbau⁵
@@ -3760,7 +3761,7 @@ use_preset_vocabulary: true
 𧔚	koong2*kɔŋ²
 蠛	moot8*mɔt⁸
 𫇀	lat7*lat⁷
-𦪻	khwaang1*khwaːŋ¹
+𦪻	khWaang1*khwaːŋ¹
 𨏄	nhee6*ȵɛ⁶
 黨	daang3*ʔdaːŋ³
 黨	tooong5*tɔːŋ⁵
@@ -3775,8 +3776,8 @@ use_preset_vocabulary: true
 飄	feu1*feu¹
 飄	fiiu1*fiːu¹
 響	hwwng3*hɯːŋ³
-# 二十一画及以上
-𨆤	kwan2*kwan²
+# 二十一畫及以上
+𨆤	kWan2*kwan²
 𡤟	jooi3*jɔi³
 𦇒	tooi5*tɔi⁵
 𦇒	loi3*loi³
@@ -3802,9 +3803,9 @@ use_preset_vocabulary: true
 𬂙	tong1*toŋ¹
 𤄯	toong1*tɔŋ¹
 𤄲	kvn5*kɤn⁵
-轟	xwan1*ʔwan¹
+轟	xWan1*ʔwan¹
 𬘋	tsat8*tsat⁸
-𣌉	khwiy1*khwiə¹
+𣌉	khWiy1*khwiə¹
 驅	khu1*khu¹
 騾	la1*la¹
 龔	kung1*kuŋ¹
@@ -3837,7 +3838,7 @@ use_preset_vocabulary: true
 鑥	juy3*juə³
 鑽	tsaan1*tsaːn¹
 𨯹	duk8*ʔduk⁸
-鑧	khwaan1*khwaːn¹
+鑧	khWaan1*khwaːn¹
 鑊	vaak8*vaːk⁸
 鑊	vook8*vɔk⁸
 鑼	la1*la¹
@@ -3846,7 +3847,7 @@ use_preset_vocabulary: true
 癲	diin1*ʔdiːn¹
 𤼕	rwk7*rɯk⁷
 癮	ngiin6*ŋiːn⁶
-歡	hwaan1*hwaːn¹
+歡	hWaan1*hwaːn¹
 鬚	tu1*tu¹
 𩟡	dooi5*ʔdɔi⁵
 囉	loo1*lɔ¹
@@ -3881,14 +3882,14 @@ use_preset_vocabulary: true
 蘸	taam5*taːm⁵
 巖	nhaam1*ȵaːm¹
 𥍓	ngoom2*ŋɔm²
-觀	kwaan1*kwaːn¹
+觀	kWaan1*kwaːn¹
 𤅶	biin3*ʔbiːn³
 𤓩	been5*ʔbɛn⁵
 𣌋	thvvm5*thɤːm⁵
 𨣨	jvm5*jɤm⁵
 𡔃	nan6*nan⁶
 𨇜	du3*ʔdu³
-權	kwiin2*kwiːn²
+權	kWiin2*kwiːn²
 𡈺	toon2*tɔn²
 靈	lin1*lin¹
 𩆡	raau2*raːu²
@@ -3917,7 +3918,7 @@ use_preset_vocabulary: true
 𣱰	ram5*ram⁵
 𩙋	joo5*jɔ⁵
 𪛅	ruy2*ruə²
-# U外字
+# 未收入 Unicode 15.1 的字
 干𖿱	kvvn1*kɤːn¹
 木𖿱	mook7*mɔk⁷
 𪟽𖿱	ngvvi1*ŋɤːi¹
@@ -3925,7 +3926,7 @@ use_preset_vocabulary: true
 󲂷	vok7*vok⁷
 左𖿱	ta3*ta³
 白𖿱	baak8*ʔbaːk⁸
-外𖿱	ngwaai2*ŋwaːi²
+外𖿱	ngWaai2*ŋwaːi²
 尼𖿱	nai2*nai²
 󱿺	dvi1*ʔdɤi¹
 󱾥	xat7*ʔat⁷
@@ -4014,15 +4015,15 @@ use_preset_vocabulary: true
 󲀌	thvvt7*thɤːt⁷
 ⿰冫朗	laang5*laːŋ⁵
 󱾀	ha2*ha²
-󱾆	khwaai1*khwaːi¹
+󱾆	khWaai1*khwaːi¹
 󲀦	nwwng5*nɯːŋ⁵
 󲁈	jwwng2*jɯːŋ²
 󲀠	tswy2*tsɯə²
 󰎥	ngwng3*ŋɯŋ³
-󰌘	kwai1*kwai¹
+󰌘	kWai1*kwai¹
 󲀖	ngui2*ŋui²
 󲀉	mvp8*mɤp⁸
-停𖿱	than6*than⁶
+停𖿱	dan2*ʔdan²
 渚𖿱	tswy1*tsɯə¹
 勒𖿱	lak7*lak⁷
 𢯕𖿱	jv3*jɤ³
@@ -4048,7 +4049,7 @@ use_preset_vocabulary: true
 󱾪	jeeu1*jɛu¹
 󱿄	sin1*sin¹
 運𖿱	vvn2*vɤn²
-揮𖿱	hwee1*hwɛ¹
+揮𖿱	hWee1*hwɛ¹
 智𖿱	tiy5*tiə⁵
 森𖿱	tsum1*tsum¹
 硬𖿱	kwng1*kɯŋ¹
@@ -4088,7 +4089,7 @@ use_preset_vocabulary: true
 󰕤	dat7*ʔdat⁷
 󱾈	bai1*ʔbai¹
 󲀛	tsuung2*tsuːŋ²
-󱾎	gai5*ɣai⁵
+⿰耳洒	gai5*ɣai⁵
 󰚑	ji1*ji¹
 󰜎	jat7*jat⁷
 󱾦	tsee1*tsɛ¹
@@ -4121,16 +4122,16 @@ use_preset_vocabulary: true
 󰒄	kiu2*kiu²
 󱿂	tsiin2*tsiːn²
 󱿧	tom6*tom⁶
-󱾬	kweeu1*kwɛu¹
+󱾬	kWeeu1*kwɛu¹
 󱾫	keeu3*kɛu³
 󲀗	hui3*hui³
 󱿞	tho3*tho³
-󱾏	tsaau5*tsaːu⁵
+⿰米⿱白早	tsaau5*tsaːu⁵
 󱾢	laat8*laːt⁸
 ⿰木蓬	bong1*ʔboŋ¹
-󲀈	kwvng2*kwɤŋ²
+󲀈	kWvng2*kwɤŋ²
 󲀇	nvn2*nɤn²
-󰇒	khwan1*khwan¹
+󰇒	khWan1*khwan¹
 󲀜	ruung2*ruːŋ²
 󱚩	jvu5*jɤu⁵
 ⿰質刀	tsat8*tsat⁸
@@ -4187,5 +4188,5 @@ use_preset_vocabulary: true
 󲁂	meen1*mɛn¹
 󱿑	tooi2*tɔi²
 󰓆	gat8*ɣat⁸
-𡅳𖿱	khwiin1*khwiːn¹
-󱾯	khween1*khwɛn¹
+𡅳𖿱	khWiin1*khwiːn¹
+󱾯	khWeen1*khwɛn¹
