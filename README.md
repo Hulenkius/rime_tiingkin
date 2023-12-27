@@ -4,7 +4,9 @@ RIME輸入方案：𡦂喃㗂京中國
 
 《中國京語詞典》字頭發音轉寫輸入
 
-整理資料見 [Google Docs](https://docs.google.com/spreadsheets/d/1P0wrFTcHTZjjni2Vg2GUu8A1kA1zXTjK)。
+基於國際音標作轉寫。壯拼式方案另見 [TKYKmori/rime_tiengkin](https://github.com/TKYKmori/rime_tiengkin)。
+
+整理資料見 [Google Docs](https://docs.google.com/spreadsheets/d/1P0wrFTcHTZjjni2Vg2GUu8A1kA1zXTjK)。（hulenkius, KeepOut2010）
 
 需要 [Nom Na Tong](https://github.com/nomfoundation/font) 字體私用區支持。倉頡五代反查中的私用區部分可從 [Hulenkius/NNTPUA_cangjie5](https://github.com/Hulenkius/NNTPUA_cangjie5) 獲取。
 
