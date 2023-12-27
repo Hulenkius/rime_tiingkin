@@ -5,7 +5,7 @@
 
 ---
 name: "tiingkin"
-version: "2023.12.27"
+version: "2023.12.271"
 sort: original
 use_preset_vocabulary: true
 ...
@@ -4190,3 +4190,14 @@ use_preset_vocabulary: true
 󰓆	gat8*ɣat⁸
 𡅳𖿱	khWiin1*khwiːn¹
 󱾯	khWeen1*khwɛn¹
+
+# KeepOut2010 補原表漏收字
+警	kan3*kan³
+數	so5*so⁵
+停𖿱	than6*tʰan⁶
+數	tho5*tʰo⁵
+𡂡	thuy3*tʰuə³
+屍	thvi1*thɤi¹
+漊	thvu1*tʰɤu¹
+螻	thvu1*tʰɤu¹
+𤛠	tvu5*tɤu⁵
